@@ -1,1 +1,1 @@
-createdigitalspb/docker_py2
+createdigitalspb/py2
